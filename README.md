@@ -1,3 +1,5 @@
-Title:
-ShopWise: Unlocking Purchase Behavior 
+**Title:
+ShopWise: Unlocking Purchase Behavior **
+
+Description:
 
